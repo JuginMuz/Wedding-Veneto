@@ -6,7 +6,7 @@ const Header = ({ onRSVPClick }) => {
   const { t, i18n } = useTranslation();
 
   // Set your wedding date here once
-  const weddingDate = new Date("2026-09-05T00:00:00");
+  const weddingDate = new Date("2026-09-12T00:00:00");
 
   // Locale-aware parts
   const monthLong = new Intl.DateTimeFormat(i18n.language, { month: "long" }).format(weddingDate);
@@ -42,7 +42,7 @@ const Header = ({ onRSVPClick }) => {
 
           {/* Right: City + Country (translated) */}
           <div className="detail-right">
-            Abruzzo
+            Veneto
             <br />
             {t("header.country")}
           </div>
