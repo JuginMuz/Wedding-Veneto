@@ -52,14 +52,14 @@
 .detail-divider {
   width: 1px;
   height: 120px;
-  background-color: #8D493A;
+  background-color: #2F4F4F;
   margin-bottom: 40px;
 }
 
 .rsvp-button {
-  background-color:  #8D493A;
+  background-color:  #B68D40;
   color: white;
-  border: 1px solid  #8D493A;
+  border: 1px solid  #B68D40;
   padding: 15px 25px;
   font-size: 1rem;
   letter-spacing: 2px;
@@ -69,8 +69,8 @@
 
 .rsvp-button:hover {
   background-color: transparent;
-  border: 1px solid  #8D493A;
-  color:  #8D493A;
+  border: 1px solid  #D4AF37;
+  color:  #D4AF37;
 }
 
 
