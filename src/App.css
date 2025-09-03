@@ -2,7 +2,7 @@ body {
   margin: 0;
   padding: 0;
   background-color: #faf8f5;          
-  color: #8D493A;
+  color: #2F4F4F;
   font-family: 'EB Garamond';             
 }
 
@@ -19,8 +19,8 @@ body {
 
 .language-switcher button {
   background: rgba(255,255,255,0.8);
-  border: 1px solid #8D493A;
-  color: #8D493A;
+  border: 1px solid #2F4F4F;
+  color: #2F4F4F;
   font-size: 0.8rem;
   padding: 6px 10px;
   border-radius: 999px;
@@ -29,7 +29,7 @@ body {
 }
 
 .language-switcher button.active {
-  background: #8D493A;
+  background: #2F4F4F;
   color: white;
 }
 
@@ -200,11 +200,11 @@ h3{
 }
 
 .rsvp-form button {
-  background-color:  #8D493A;
+  background-color:  #B68D40;
   color: white;
   padding: 0.75rem 1.5rem;
   font-family: 'EB Garamont';
-  border: 1px solid  #8D493A;
+  border: 1px solid  #B68D40;
   letter-spacing: 2px;
   font-size: 1rem;
   cursor: pointer;
@@ -214,8 +214,8 @@ h3{
 
 .rsvp-form button:hover {
   background-color: transparent;
-  border: 1px solid  #8D493A;
-  color:  #8D493A;
+  border: 1px solid  #D4AF37;
+  color:  #D4AF37;
 }
 
 .rsvp-form .thank-you {
@@ -345,11 +345,11 @@ h3{
   }
 
   .rsvp-form button {
-    background-color:  #8D493A;
+    background-color:  #B68D40;
     color: white;
     padding: 0.75rem 1.5rem;
     font-family: 'EB Garamont';
-    border: 1px solid  #8D493A;
+    border: 1px solid  #B68D40;
     letter-spacing: 2px;
     font-size: 1rem;
     cursor: pointer;
@@ -359,8 +359,8 @@ h3{
 
   .rsvp-form button:hover {
     background-color: transparent;
-    border: 1px solid  #8D493A;
-    color:  #8D493A;
+    border: 1px solid  #D4AF37;
+    color:  #D4AF37;
   }
 
   .rsvp-form .thank-you {
@@ -479,11 +479,11 @@ h3{
   }
 
   .rsvp-form button {
-    background-color:  #8D493A;
+    background-color:  #B68D40;
     color: white;
     padding: 0.75rem 1.5rem;
     font-family: 'EB Garamont';
-    border: 1px solid  #8D493A;
+    border: 1px solid  #B68D40;
     letter-spacing: 2px;
     font-size: 1rem;
     cursor: pointer;
@@ -493,8 +493,8 @@ h3{
 
   .rsvp-form button:hover {
     background-color: transparent;
-    border: 1px solid  #8D493A;
-    color:  #8D493A;
+    border: 1px solid  #D4AF37;
+    color:  #D4AF37;
   }
 
   .rsvp-form .thank-you {
