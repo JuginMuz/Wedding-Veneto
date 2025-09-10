@@ -24,21 +24,23 @@
   },
   "travel": {
     "locationTitle": "La Nostra Location",
-    "locationP1": " Immerso tra le colline che guardano il mare Adriatico, Borgo Fonte Scura a Silvi è un’antica dimora ricca di fascino, circondata da ulivi e da una vista mozzafiato.",
-    "locationP2": "La sua atmosfera senza tempo e la bellezza del paesaggio lo rendono il luogo perfetto per festeggiare questo momento speciale insieme alle persone che amiamo.",
+    "locationP1": "Immerso nella campagna veneta, Antico Veturo è una splendida villa storica sapientemente restaurata, che unisce fascino rustico ed elegante semplicità. Circondata da campi verdi e alberi secolari, offre un’atmosfera calda e senza tempo, dove storia e natura si incontrano.",
+    "locationP2": "È il luogo ideale per riunirci, festeggiare e condividere questa giornata indimenticabile con le persone che amiamo di più.",
     "infoTitle": "Informazioni di Viaggio",
-    "infoP1": "Per chi arriva da lontano, l’aeroporto più vicino è Pescara (PSR), oppure è possibile raggiungerci in treno tramite la stazione di Pescara Centrale.",
-    "infoP2": "Per i nostri ospiti che arrivano dall’estero, ci occuperemo noi dei trasporti dal momento dell’arrivo fino alla partenza, così potrete rilassarvi e godervi la festa insieme a noi!"
+    "infoP1": "Per chi arriva da lontano, gli aeroporti più vicini sono Venezia Marco Polo (VCE) e Treviso (TSF), entrambi a breve distanza da Antico Veturo. È possibile raggiungerci facilmente anche in treno, con comode connessioni dalle stazioni di Padova e Treviso.",
+    "infoP2": "Se avete bisogno di una mano per organizzare il viaggio o i trasferimenti, non esitate a contattarci, saremo felici di aiutarvi."
   },
   "gifts": {
     "title": "Guida ai Regali",
     "p1": "Siamo profondamente grati per la vostra presenza al nostro matrimonio, è davvero il dono più significativo.",
     "p2": "Vivendo a Londra e festeggiando in Italia, sarebbe difficile trasportare regali materiali.",
     "p3": "Se desiderate farci un dono, vi saremmo molto grati per un contributo al fondo per la nostra prima casa.",
-    "accountHolder": "INTESTATARIO:",
-    "iban": "IBAN:",
-    "bic": "BIC/SWIFT:",
-    "description": "CAUSALE:"
+    "accountHolder": "INTESTATARIO: Alexandra Leone & Jugin Muzhaqi",
+    "description": "CAUSALE: Wedding Gift",
+    "iban": "IBAN: GB88MONZ04000501523712",
+    "bic": "BIC/SWIFT: MONZGB2L",
+    "sort": "SORT CODE: 04-00-05",  
+    "account": "ACCOUNT NUMBER: 01523712"
   },
   "qa": {
     "q1": { "title": "Entro quando devo confermare la presenza?", "body": "Vi preghiamo di confermare la vostra presenza tramite il modulo di RSVP entro il 1° agosto 2026." },
