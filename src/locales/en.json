@@ -24,21 +24,23 @@
   },
   "travel": {
     "locationTitle": "Our Wedding Location",
-    "locationP1": "Nestled in the hills above the Adriatic coast, Borgo Fonte Scura in Silvi is a charming historic residence surrounded by olive trees and sweeping sea views.",
-    "locationP2": "Its timeless atmosphere and natural beauty make it the perfect place for us to celebrate this special moment with the people we love most.",
+    "locationP1": "Set in the heart of the Veneto countryside, Antico Veturo is a beautifully restored historic villa that blends rustic charm with elegant simplicity. Surrounded by green fields and centuries-old trees, it offers a warm and timeless atmosphere where history and nature meet.",
+    "locationP2": "It’s the perfect place for us to gather, celebrate, and share this unforgettable day with the people we love most.",
     "infoTitle": "Travel Information",
-    "infoP1": "For those joining us from afar, the closest airport is Pescara Airport (PSR), or you can reach us by train via Pescara Centrale station.",
-    "infoP2": "For our guests coming from abroad, we will be organising transportation from your arrival to your departure, so you can relax and enjoy the celebration with us!"
+    "infoP1": "For those joining us from afar, the closest airports are Venice Marco Polo (VCE) and Treviso (TSF), both just a short drive from Antico Veturo. You can also reach us easily by train, with Padua and Treviso stations offering convenient connections.",
+    "infoP2": "If you need any help planning your journey or arranging transportation, just let us know, we’ll be happy to assist you."
   },
   "gifts": {
     "title": "Gifts Guide",
     "p1": "We are deeply grateful for your presence at our wedding, it is truly the most meaningful gift.",
     "p2": "As we live in London and are celebrating in Italy, transporting physical gifts would be a challenge.",
     "p3": "If you would like to offer us a gift, we would be so thankful for a contribution to our first home fund.",
-    "accountHolder": "ACCOUNT HOLDER:",
-    "iban": "IBAN:",
-    "bic": "BIC/SWIFT:",
-    "description": "DESCRIPTION:"
+    "accountHolder": "ACCOUNT HOLDER: Alexandra Leone & Jugin Muzhaqi",
+    "description": "DESCRIPTION: Wedding Gift",
+    "iban": "IBAN: GB88MONZ04000501523712",
+    "bic": "BIC/SWIFT: MONZGB2L",
+    "sort": "SORT CODE: 04-00-05",  
+    "account": "ACCOUNT NUMBER: 01523712"
   },
   "qa": {
     "q1": { "title": "By when do I need to confirm my attendance?", "body": "Please confirm your attendance via the RSVP form by August 1, 2026." },
